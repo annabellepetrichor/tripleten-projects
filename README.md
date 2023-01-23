@@ -10,4 +10,7 @@ The repository of all projects completed for the Practicum Data Analyst Program
 |[Making Business Decisions With Data - A/B Testing](https://github.com/anipetrichor/Practicum-Projects/blob/1dd6903849e5cfe1c25d69878feac19ca51b06a1/making_business_decisions_with_data.ipynb) | Analyizing cumulative revenue and order data for an online marketplace then conducting A/B testing on the two groups studied. | *pandas*, *matplotlib.pyplot*, *numpy*, *scipy* |
 |[Storytelling with Data - LA Cafe Market Research](https://github.com/anipetrichor/Practicum-Projects/blob/2a5de8db8666a6c35261911cd4d64d3b998576e1/la_cafe_market_research.ipynb) | Analyizing LA restaurant data to determine the vaibility of a robot-operated cafe. | *pandas*, *matplotlib.pyplot*, *numpy*, *seaborn*, *plotly* |
 |[A/A/B Website Font Testing](https://github.com/anipetrichor/Practicum-Projects/blob/3c22c5679eaba4f521a991105bbb1b178d90e8a7/a_a_b_testing.ipynb) | Conducting A/A/B testing on a website font change to increase completed sales. | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy*, *seaborn*, *plotly* |
+|[Tableau Regional Video Trends Dashboard](https://public.tableau.com/views/practicum_automation_project/trending_vids_dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+) | Building a Tableau dashboard to analyzing total trending videos by region and category. | *tableau* |
+
 
