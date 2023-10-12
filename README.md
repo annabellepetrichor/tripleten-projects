@@ -1,5 +1,5 @@
-# Practicum-Projects
-The repository of all projects completed for the Practicum Data Analyst Program
+# TripleTen-Projects
+The repository of all projects completed for the TripleTen Data Analyst Program
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
